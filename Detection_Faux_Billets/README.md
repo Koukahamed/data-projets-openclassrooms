@@ -27,31 +27,7 @@ Nous disposons d'un **jeu de données** de **1 500 billets** (1 000 vrais et 500
 - **Bibliothèques Python** : Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Outils** : Jupyter Notebook / Google Colab / VS Code
 
-## 🚀 Installation & Exécution
-1. **Cloner le dépôt** :
-   ```bash
-   git clone https://github.com/ton-user/detection-faux-billets.git
-   cd detection-faux-billets
-   ```
-2. **Créer un environnement virtuel** (optionnel) :
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # macOS/Linux
-   venv\Scripts\activate  # Windows
-   ```
-3. **Installer les dépendances** :
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. **Exécuter le notebook** :
-   Ouvrir `notebook_detection.ipynb` et exécuter les cellules une par une.
+## ⚙️ Fonctionnement
+* Téléchargez le fichier _[billets.csv](data%2Fbillets.csv)_
 
-## 📊 Évaluation des modèles
-L'algorithme sera évalué à l'aide de **matrices de confusion** afin de comparer le nombre de **faux positifs** et **faux négatifs** pour chaque méthode (régression logistique et K-Means).
-
-## 📜 Livrables attendus
-- Un **notebook** Python ou R contenant :
-  - L'analyse exploratoire des données
-  - L'implémentation des algorithmes
-  - L'évaluation des modèles
-- Un fichier **billets_production
+* Ouvrez et exécutez le notebook _[Savadogo_Hamed_1_code_112024.ipynb](notebooks%2FSavadogo_Hamed_1_code_112024.ipynb)_ situé dans le dossier notebooks.
