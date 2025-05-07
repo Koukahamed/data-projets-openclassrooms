@@ -36,4 +36,4 @@ Chaque projet est organisé dans un dossier dédié avec :
 Ce projet est sous licence **MIT** (ou préciser la licence utilisée).
 
 ## 🙌 Contact
-💼 [Ton Nom] - [LinkedIn](https://www.linkedin.com/in/hamed-savadogo/) - [Email](mailto:Hamedsavadogo158@gmail.com)
+💼 [Hamed] - [LinkedIn](https://www.linkedin.com/in/hamed-savadogo/) - [Email](mailto:Hamedsavadogo158@gmail.com)
