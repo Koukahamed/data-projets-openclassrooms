@@ -13,12 +13,10 @@ Chaque projet est organisé dans un dossier dédié avec :
 ## 🚀 Technologies utilisées
 - **Langages** : Python, SQL
 - **Bibliothèques** : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Outils** : Jupyter Notebook, Google Colab, VS Code, Git, BigQuery
+- **Outils** : Jupyter Notebook, Pycharm, Git
 
 ## 📌 Liste des Projets
-1. **[Nom du projet 1](./nom_du_dossier_1/)** - Brève description du projet.
-2. **[Nom du projet 2](./nom_du_dossier_2/)** - Brève description du projet.
-3. **[Nom du projet 3](./nom_du_dossier_3/)** - Brève description du projet.
+1. **[Nom du projet 1](./Detection_Faux_Billets/)** - Mise en place d'une modélisation afin d’identifier automatiquement les vrais des faux billets.
 
 ## 🛠️ Installation & Utilisation
 1. **Cloner ce dépôt** :
