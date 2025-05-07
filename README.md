@@ -16,7 +16,7 @@ Chaque projet est organisé dans un dossier dédié avec :
 - **Outils** : Jupyter Notebook, Pycharm, Git
 
 ## 📌 Liste des Projets
-1. **[Nom du projet 1](./Detection_Faux_Billets/)** - Mise en place d'une modélisation afin d’identifier automatiquement les vrais des faux billets.
+1. **[Détecter des faux billets avec Python](./Detection_Faux_Billets/)** - Mise en place d'une modélisation afin d’identifier automatiquement les vrais des faux billets.
 
 ## 🛠️ Installation & Utilisation
 1. **Cloner ce dépôt** :
